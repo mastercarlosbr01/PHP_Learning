@@ -64,7 +64,7 @@
 
 <h1> Raiz quadrada</h1>
 <?php 
-    $quadr = sqrt(81); // 27 ** (1/3) raiz cubica de 27 LOL
+    $quadr = sqrt(81); // pow(27, 1/3); raiz cubica de 27 LOL
 
     echo "Raiz quadrada =  $quadr <br><br>";
 
