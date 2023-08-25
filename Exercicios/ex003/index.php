@@ -11,7 +11,7 @@
     <?php 
         $num = 0x1A;
         echo "O valor da variável é $num";      
-        echo "Ver o tipo primitivo da variavel: ". var_dump($num);
+        echo " <br>Ver o tipo primitivo da variavel: ". var_dump($num);
 
 
         $bolee = true;
